@@ -1,0 +1,10 @@
+{
+  "name": "joelouisbrown-law-firm",
+  "version": 2,
+  "buildCommand": "next build",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
